@@ -16,7 +16,8 @@ JAVA 문법
 ```plaintext
 Language/
 ├── C++/          
-├── Python/         
-│   ├── Baekjoon/   # e.g. Baekjoon's Task
+├── Python/
+│   ├── Basic
+│   ├── Baekjoon   # e.g. Baekjoon's Task
 ├── JAVA
 └── README.md
