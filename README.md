@@ -1,4 +1,4 @@
-# Syntax-lab
+# Syntax-Lab
 
 ## C++, JAVA, Python ... ##
 
