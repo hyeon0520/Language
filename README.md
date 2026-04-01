@@ -14,8 +14,10 @@ Python 문법
 
 ## Structure
 ```plaintext
-Language/
-├── Baekjoon # e.g. Baekjoon's Task
+Syntax-lab/
+├── Algorithm-Problems
+│   ├── Baekjoon # e.g. Baekjoon's Task
+│   ├── Programmers
 ├── C++
 ├── JAVA
 ├── Python
