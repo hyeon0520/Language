@@ -15,9 +15,9 @@ Python 문법
 ## Structure
 ```plaintext
 Syntax-Lab/
-├── Algorithm-Problems
-│   ├── Baekjoon # e.g. Baekjoon's Task
-│   ├── Programmers
+├── Baekjoon # e.g. Baekjoon's Task
+│   ├── Bronze
+├── Programmers
 ├── Programming-Languages
 │   ├── C++
 │   ├── JAVA
