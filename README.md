@@ -18,7 +18,8 @@ Syntax-Lab/
 ├── Algorithm-Problems
 │   ├── Baekjoon # e.g. Baekjoon's Task
 │   ├── Programmers
-├── C++
-├── JAVA
-├── Python
+├── Programming-Languages
+│   ├── C++
+│   ├── JAVA
+│   ├── Python
 └── README.md
